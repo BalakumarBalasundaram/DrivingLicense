@@ -13,6 +13,7 @@
   - skyltar: https://www.youtube.com/watch?v=0zDBv059iU0
 - Pedestrian crossing, Bicycle crossing & Bike paths
   - bicyle passage vs bicycle crossing - https://www.youtube.com/watch?v=uHmbZe4k-t0    
+  - ![alt text](image.png)
 - Roundabouts
 - Motorways & Clearways
 - Country Roads
@@ -26,6 +27,8 @@
 - Obligations & Actions in traffic Accidents
 - Wildlife Accidents
 - Trailers & Towing
+  - read more details her [trailers & towing readme](Trailers-Towing.md)
+  
 
 ## The Vehicle
 - Stopping, Reaction and Breaking Distance
