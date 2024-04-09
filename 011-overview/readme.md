@@ -24,8 +24,69 @@
 - Overtaking
 - Driving in the dark
 - Slippery Road Conditions
+  - Can occur any time or any season
+  - Risk is great
+    - winter months
+  - Hazardous Situation
+    - Driving on slippery road conditions without being prepared
+    - Temp < Freezing Point
+      - Road users drive carefully
+    - Temp == 0
+      - moisture on road freeze quickly without drivers noticing
+  - Spring & Autumn Conditions
+    - Temp Fluctations
+    - Frost
+    - Patches of ice
+    - Bridges & Viaducts
+  - Summer Road Conditions
+    - Road condition Best in summer months
+    - poor condition can occur time to time
+      - when it starts to rain after long period of warm and dry weather
+      - risk of slippery is high
+      - Water breaks up dirt and oil residues causing slippery mud to form on the road
+        - once it rains heavily it gets rinsed away
+  - Winter Road Conditions
+    - Freezing Rain
+    - Snow Tracks
+    - Snow in the middle of the road
+    - Polished snow
+  - Tips for driving
+    - Reduce speed, start car on second gear, reverse a little before driving
+    - Braking without ABV brakes
+    - Braking with ABS brakes
+    - Aquaplanning
+      - Increased RIsk
+        - High Speed
+        - Wide Tyres
+        - Poor Tread depth
+        - Large Quantities of water
 - Obligations & Actions in traffic Accidents
+  - Obligations
+    - stay put
+    - leave your details
+    - move vehicles
+    - contact the police
+    - property damage
+    - damage to a traffic device
+  - In an Accident act in the following order
+    - Survey the Accident site
+    - Check the risk of fire
+    - Help injured people and warn other road users
+    - call 112
+  - In an emergency - LBBC
+    - Life threatening Situation
+    - Breathing
+    - Bleeding
+    - Circulatory Shock
+  - Emergency Stop
 - Wildlife Accidents
+  - Risk is high
+    - at dusk and dawn
+    - in may-june
+    - in sep-oct
+    - at the edge of forested areas
+    - at clearings
+    - at places where wildlife fencing begins and ends
 - Trailers & Towing
   - read more details her [trailers & towing readme](Trailers-Towing.md)
   
