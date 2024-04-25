@@ -2,6 +2,35 @@
 # High level overview
 ![alt text](overview.png)
 
+## Driving in towns and cities
+- Unprotected road users
+- Traffic signals and communication
+- Positioning and lane selections
+- Give Way Rules (https://www.ikorkort.nu/en/theory/stadskorning/vajningsregler.php)
+  - Duty to Give way
+  -  Priority to the right rule
+  - junctions
+  - Exit rule
+  - Bus rule
+  - obstacles
+- Overtaking
+  - Before overtaking
+  - Overtaking prohibitions
+  - Passing on the right side
+  - Abort an overtaking
+  - Cyclists and road maintenance
+  - Trams
+- Parking Rules
+  - Before Parking
+  - General Parking rules
+  - Bus and tram stops
+  - Parking signs
+  - Alternate side parking
+  - Parking on hills
+  - Considerations when parking
+  - mopeds
+  
+
 ## Driving Part 1
 
 - Stopping & Parking
@@ -12,9 +41,21 @@
   - korkortssidan: https://www.youtube.com/watch?v=nRYb1sjiA4g
   - skyltar: https://www.youtube.com/watch?v=0zDBv059iU0
 - Pedestrian crossing, Bicycle crossing & Bike paths
-  - bicyle passage vs bicycle crossing - https://www.youtube.com/watch?v=uHmbZe4k-t0    
-  - ![alt text](image.png)
+  - bicyle passage vs bicycle crossing 
+    - link:
+      - https://korkortonline.se/teori/passager/
+    - youtube:
+      -  https://www.youtube.com/watch?v=uHmbZe4k-t0    
+      https://www.youtube.com/watch?v=VLVQIO9aIqM
+  - high level informaiton to remember 
+  ![alt text](image.png)
 - Roundabouts
+  - link:
+    - https://www.xn--vningskrning-3ibh.com/rad-cirkulationsplatser-rondeller/
+    - https://korkortonline.se/teori/cirkulationsplats/
+    - https://xn--krkort-wxa.se/rondell/
+  - youtube:
+    - https://www.youtube.com/watch?v=FBSFPHD8MEU
 - Motorways & Clearways
 - Country Roads
 - Roadworks
